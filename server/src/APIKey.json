@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "stalwart-kite-408520",
+  "private_key_id": "d250de473b257b298a6eeb1b23675615f41d6590",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCbvSHRrYPLzSXz\nO91eNykUFNO1Lxh8mWBpz7GQYblF6tAw9fjYkzT66/vKRfcft5vcVqxHGiOkbsZj\nWB1f+v6bsV1b60uBnQ1GlHmIDZ0MxprBU/Lg9Bho2vVypY14LQXjXE9oMqVY7B39\nnYyInQHmBoGCBuhTLu15dWY9aYHvL3pqhOUHEkgALclkI7sjFYshnZQjGIFtykT2\nuWPmMStCP5+u27WFJ9B/yS/tpOA7e1k2HNfN7DtkqJlKAswdNsq9ARxjrS4urKpO\nBfOjv6vTYzm6cPGOuQdZfW1uKKtcnxo4OG7AQbDIuZglYnjO+4LK45sjOVkFweTQ\ns7uLUJkdAgMBAAECggEAIv9oI636AakK37OyxfLgZNZfUwaP2qQ/Adg+H2OOlpMz\nkOUdtFG0ZLT2QtjhNXv15xiFI39QxilspLOO+lw1rjg38imYsLph2twPyY7Bnbbd\n3Rcn6/x+pcWaxdZFSd3YRmUepRxIgwignrcydxrNa+tHXDiAKf1QOWyz+pYEsIKh\nf4SEv5WlmuKv6yyRrEv3EwAjTKwNqVKizB+93Z+35tN1cwVI1seRV0wiMxSXZIj3\ndC+nEzOtkebJLUI72IOqJOvSgxPfl2g29Q37Pt2Xw0tiY5W/skB9Btt07goQmO5N\nRADrPVpEMuiFjXtbFQsY9eWGzgnvrPgu7ft8C6ZhQwKBgQDS+PVKlYL6tqkPhDTF\nvQINmCx/cc1Mnp9pnAtwI6NMb6fkpIHrdlzyoGYBcu/epI565obWJm8qeuXCKTuJ\ngTZXETKLdpT6eycbb8ZN2Oi789Gy0mZxeie5BXRIDcUPlLkIbyuPuqBS9hk/Jf+h\nqh9dE7FI2w+wJWKZre2b1URZPwKBgQC8+lWemKDu37TYFn0Lnadzt2WwqybRq60M\nnsiDQ1tN7jLNqErTUBUhj+yL4VP14VnFBoRZnKnfkB9QSG3lLKZNv/QoJYCoqbH/\nqH6VkYhQX7oImO5cp6eYF+bEaJo2jeL0YKyV6B1l5w47QZR+BGmY0EeYEj8zlNJm\n3dzZ1wy6owKBgGee6fOZHb0AjGbXm4fnvqNos6pg/eH9IvUfNKr+hg1b5g2yEzHQ\nb/SnfZKGnnQvRN/ubBmwxPcLZ+AGmnx+H2+CPd4r/x5L8LhUHQVNXXo7VirLlo9z\n3SDOIf/l630sofkXiUDN/ELjJyFSC42e3kq8Cl5rYfg1VImA2OyqQijHAoGAHmar\nRXNKWINWhXjArxCyspPrYQt3mD1k/mXA3hUE6DmMpLcRKoN0ksyjgjFCn4icN2z/\n96aTUWrPDsxIGZkgO9vIfHjkBL4f64AAtTEPW9a6h82Kcw9pj7cwoaIuRN54h1XS\nDd+kcxNDn9bB+6/cCQBgtB8jWbn0SyYf9E97Nb8CgYEAyYrz0k7wlBeqR8UIYOM2\n5x/0GAqOdG9fFrX9h3CNrsGWy71N5JH9GW+5TlXQU4HFqSv4iJjOtOrPd6YrlcEv\nckdOIm7laNWYtUIfi68ZPPSIgUtFkTXnmWV/Uc1AxqDqEIMLT23gjPhYzGVccTUO\nIlvl+NmcUj0qdLuxnKzuxWs=\n-----END PRIVATE KEY-----\n",
+  "client_email": "google-cloud-vision-api-test@stalwart-kite-408520.iam.gserviceaccount.com",
+  "client_id": "114871447667185539816",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/google-cloud-vision-api-test%40stalwart-kite-408520.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

@@ -1,0 +1,14 @@
+.customersTopBar {
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    width: 60vw;
+    height: 12vh;
+}
+
+.customersTable {
+    font-size: medium;
+    white-space: nowrap;
+    display: flex;
+    justify-content: left;
+}

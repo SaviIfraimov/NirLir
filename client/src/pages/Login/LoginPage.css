@@ -1,0 +1,23 @@
+.loginForm {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+  
+input {
+    margin: 0.5%;
+    padding: 3%;
+    border: 2px solid #2f3236;
+    border-radius: 8px;
+    font-family: ui-rounded;
+    font-size: medium;
+    background: #f0f0f0 ;
+}
+
+input:hover {
+    background-color: #d8dde8;
+}
+
+input:focus {
+    outline: none;
+}

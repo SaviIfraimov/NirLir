@@ -1,0 +1,32 @@
+.dashboardRedirection {
+    display: inline-flex;
+    justify-content: space-evenly;
+}
+
+.dashboardRedirectionBox {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    margin: 0 6%;
+    padding: 6%;
+    min-height: 35vh;
+    min-width: 27vw;
+    
+    white-space: nowrap;
+    background-color: rgba(74, 85, 104, 0.33);
+    border: 3px solid rgb(47, 51, 55);
+    border-radius: 72px;
+    letter-spacing: 1px;
+    font-size: x-large;
+
+    transition: background-color 1.2s; /* Smooth transition for hover effect */
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+
+.dashboardRedirectionBox:hover {
+    cursor: pointer;
+    background-color: #282a2d;
+    border: 4px outset #4a5568;
+    box-shadow: 0 4px 8px rgba(150, 150, 150, 0.1);
+}

@@ -1,0 +1,14 @@
+.ordersTopBar {
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    width: 60vw;
+    height: 12vh;
+}
+
+.ordersTable {
+    font-size: medium;
+    white-space: nowrap;
+    display: flex;
+    justify-content: left;
+}

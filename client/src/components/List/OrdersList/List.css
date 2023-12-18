@@ -1,0 +1,78 @@
+.list {
+    background-color: rgba(59, 65, 79, 0.12);
+    border: 4px solid rgba(74, 85, 104, 0.24);
+    border-radius: 48px;
+    text-align: left;
+    padding: 4% 5%;
+}
+
+li {
+    margin: 12px 0; 
+    border: 3px solid rgba(74, 85, 104, 0.24);
+    border-radius: 48px;
+}
+
+ul {
+    list-style-type: none;
+}
+
+.listItem {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    min-height: 16vh;
+    max-height: 16vh;
+
+    white-space: normal; /* Ensures text wrapping is applied */
+    
+    word-wrap: break-word; /* Breaks the word to prevent overflow */
+    overflow-wrap: break-word; /* Ensures long words do not overflow */
+}
+
+.listItem .small-button {
+    margin-bottom: 0.5em; /* Add some space between the button and the text */
+}
+
+.listItem .itemContent {
+    display: flex;
+    flex-direction: column;
+    margin-left: 0.5em;
+}
+
+.status, .customer_id, .type, .assigned_technician, .scheduled_date, .completion_date {
+    margin-right: 4px;
+    color: lightgrey;
+    border-radius: 6px;
+    padding: 2px 4px;
+    display: inline; /* make sure it does not behave like a block-level element */
+    margin-right: 0.5em;
+    min-width: 10%;
+    max-width: 10%;
+}
+
+.status {
+    background-color: rgb(50, 75, 100);;
+}
+
+.customer_id {
+    color: silver;
+}
+
+.type {
+    background-color: rgb(128, 128, 128);
+}
+
+.assigned_technician {
+    background-color: rgb(143, 143, 74);
+}
+
+p {
+    margin: 6px 0;
+}
+
+.partial-hr {
+    margin: 4px 0;
+    border-bottom: 2px solid rgba(74, 85, 104, 0.36);
+    width: 20vw;
+    margin-left: 12px;
+  }
